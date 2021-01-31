@@ -219,6 +219,7 @@ body {
 @media (min-width: 1280px) {
   .nav-link:hover::after {
     content: "";
+    /* membuat garis hover bawah */
     border-bottom: 2px solid #0acf83;
     display: block;
     margin: auto;
